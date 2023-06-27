@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\Coding\Projects\Bit 3d surface randering\Bit 3d surface randering\Camera.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Coding\Projects\Bit 3d surface randering\Bit 3d surface randering\Source.cpp(15,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Coding\Projects\Bit 3d surface randering\Bit 3d surface randering\Source.cpp(27,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Coding\Projects\Bit 3d surface randering\Bit 3d surface randering\Source.cpp(33,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Bit 3d surface randering.vcxproj -> E:\Coding\Projects\Bit 3d surface randering\x64\Debug\Bit 3d surface randering.exe
