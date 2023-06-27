@@ -1,6 +1,0 @@
-﻿  Matrix.cpp
-E:\Χαραλαμπής\Άλλα\Coding\Test\Test\Matrix.cpp(8,3): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
-  Source.cpp
-E:\Χαραλαμπής\Άλλα\Coding\Test\Test\Unknown.h(12,21): warning C4114: same type qualifier used more than once
-  Generating Code...
-  Test.vcxproj -> E:\Χαραλαμπής\Άλλα\Coding\Test\x64\Debug\Test.exe
